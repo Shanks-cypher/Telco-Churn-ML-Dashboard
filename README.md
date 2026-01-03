@@ -21,3 +21,7 @@ XGBoost: High-performance Gradient Boosting for classification.
 Streamlit: Real-time interactive UI for business stakeholders.
 
 Matplotlib: Statistical visualization of feature importance.
+
+📂 Project Structure
+
+<img width="266" height="306" alt="image" src="https://github.com/user-attachments/assets/26ce4fd7-eaf7-4166-a7e2-43edde3931b0" />
