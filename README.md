@@ -10,7 +10,11 @@ The Analytical Solution: I built a predictive pipeline that moves beyond simple 
 
 🛠️ Tech Stack
 Python: Core programming and logic.
+
 Pandas: Advanced data manipulation and feature engineering.
+
 XGBoost: High-performance Gradient Boosting for classification.
+
 Streamlit: Real-time interactive UI for business stakeholders.
+
 Matplotlib: Statistical visualization of feature importance.
